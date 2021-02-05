@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-latex-lintE
+# key: lie
+# --
+\int\limits_E

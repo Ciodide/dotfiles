@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-ref-insert-ref
+# key: ref
+# --
+`(org-ref-helm-insert-ref-link)`

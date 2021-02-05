@@ -1,0 +1,8 @@
+# key: thm
+# name: org-latex-theorem
+# --
+
+#+BEGIN_theorem
+`(org-ref-helm-insert-label-link)`
+$0
+#+END_theorem

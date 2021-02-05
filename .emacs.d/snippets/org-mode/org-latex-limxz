@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-latex-limxz
+# key: limxz
+# --
+\lim_{x \rightarrow 0} $0

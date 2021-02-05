@@ -1,0 +1,6 @@
+# key: dmo
+# name: org-DeclareMathOperator
+# --
+#+LaTex_HEADER:\\DeclareMathOperator{\\$1}{$1}
+$0
+#+html:\\(\\DeclareMathOperator{\\$1}{$1}\\)

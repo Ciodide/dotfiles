@@ -1,0 +1,6 @@
+# key: attr
+# name: org-latex-special-blocks-attr
+# --
+#+ATTR_LATEX: :options [$1]
+#+ATTR_HTML: :style  --name:'$1';
+$0

@@ -1,0 +1,4 @@
+# key: ice
+# name: org-src-inline-c
+# --
+src_c[:exports code]{$0}

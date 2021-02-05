@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-latex-lr.
+# key: lr.
+# --
+\left. $1 \middle $0 \right.

@@ -1,0 +1,4 @@
+# key: lvm
+# name: org-latex-leavevmode
+# --
+#+latex:\leavevmode

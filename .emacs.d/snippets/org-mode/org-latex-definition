@@ -1,0 +1,8 @@
+# key: def
+# name: org-latex-definition
+# --
+
+#+BEGIN_definition
+`(org-ref-helm-insert-label-link)`
+$0
+#+END_definition

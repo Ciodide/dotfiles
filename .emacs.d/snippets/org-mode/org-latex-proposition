@@ -1,0 +1,7 @@
+# key: pps
+# name: org-latex-proposition
+# --
+
+#+BEGIN_proposition
+$0
+#+END_proposition

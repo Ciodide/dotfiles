@@ -1,0 +1,6 @@
+# key: ccn
+# name: org-src-c-nomain-code-output-nav
+# --
+#+BEGIN_SRC C :main no :results output :exports code :file-name "./src/tmp.c"
+$0
+#+END_SRC

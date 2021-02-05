@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: org-latex-abs
+# key: lr|
+# key: lr｜
+# --
+\lvert $0 \rvert

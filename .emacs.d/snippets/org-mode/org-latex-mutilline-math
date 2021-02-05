@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: org-latex-mutilline-math
+# key: ali
+# binding: s-a
+# --
+
+\begin{align}
+  $0
+\end{align}

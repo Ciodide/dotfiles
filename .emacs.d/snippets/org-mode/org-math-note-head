@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: org-math-note-head
+# key: mnh
+# --
+#+TITLE:$1
+#+AUTHOR:Ciodide Bako
+#+DATE:$2
+#+EMAIL:i@moe.lc
+#+TEXT:$3
+#+LaTeX_HEADER:\input{../../template/LaTeX/Math_Note.tex}
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../css/thm.css" />
+#+html:<link rel="import" href="../../template/LaTeX/Math_Note.html">

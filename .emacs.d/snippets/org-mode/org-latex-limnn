@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-latex-limnn
+# key: limnn
+# --
+\lim_{n \rightarrow n_0} $0

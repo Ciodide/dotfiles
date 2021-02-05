@@ -1,0 +1,6 @@
+# key: cor
+# name: org-latex-corollary
+# --
+#+BEGIN_corollary
+$0
+#+END_corollary

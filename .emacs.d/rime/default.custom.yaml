@@ -1,0 +1,5 @@
+patch:
+  schema_list:
+    - schema: double_pinyin_flypy_simp
+    #- schema: double_pinyin_flypy # 小鶴雙拼
+    #- schema: luna_pinyin

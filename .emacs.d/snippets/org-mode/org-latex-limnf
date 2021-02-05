@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-latex-limnf
+# key: limnf
+# --
+\lim_{n \rightarrow \infty} $0

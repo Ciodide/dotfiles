@@ -1,0 +1,6 @@
+# key: cbn
+# name: org-src-c-nomain-both-output-nav
+# --
+#+BEGIN_SRC C :main no :results output :exports both :file-name "./src/tmp.c"
+$0
+#+END_SRC

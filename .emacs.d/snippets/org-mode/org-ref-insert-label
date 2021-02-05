@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-ref-insert-label
+# key: lab
+# --
+`(org-ref-helm-insert-label-link)`

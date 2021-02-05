@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-latex-limxf
+# key: limxf
+# --
+\lim_{x \rightarrow \infty} $0

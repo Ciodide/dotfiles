@@ -1,0 +1,7 @@
+# key: rmk
+# name: org-latex-rmk
+# --
+
+#+BEGIN_remark
+$0
+#+END_remark

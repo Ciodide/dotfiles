@@ -1,0 +1,7 @@
+# key: lem
+# name: org-latex-lemma
+# --
+
+#+BEGIN_lemma
+$0
+#+END_lemma

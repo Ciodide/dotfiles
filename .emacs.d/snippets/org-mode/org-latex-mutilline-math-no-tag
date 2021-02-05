@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: org-latex-mutilline-math-no-tag
+# key: aln
+# --
+
+\begin{align*}
+  $0
+\end{align*}

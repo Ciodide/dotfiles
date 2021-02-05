@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: org-latex-limxx
+# key: limxx
+# --
+\lim_{x \rightarrow x_0} $0
