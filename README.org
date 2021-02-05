@@ -1,0 +1,6 @@
+#+TITLE:Dotfiles
+#+AUTHOR:Ciodide Bako
+#+DATE:<2021-02-06 Sat>
+#+EMAIL:i@ciodide.me
+
+Some config dotfiles backup for my own Linux
