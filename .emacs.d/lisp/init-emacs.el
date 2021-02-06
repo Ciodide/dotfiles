@@ -13,7 +13,7 @@
 (setq auto-revert-interval 0.5) 
 (setq recentf-max-menu-item 100)
 (setq backup-by-copying-when-linked 1)
-(setq-default truncate-lines t)
+(setq-default truncate-lines nil)
 ;;(setq-default global-visual-line-mode t)
 (setq backup-directory-alist '(("." . "/tmp/EmacsBackup")))
 
@@ -21,6 +21,7 @@
 (add-hook 'text-mode-hook 'display-line-numbers-mode)
 (add-hook 'prog-mode-hook 'hl-line-mode)
 (add-hook 'text-mode-hook 'hl-line-mode)
+
 
 (setq display-line-number-width-start t)
 

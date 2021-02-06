@@ -26,7 +26,8 @@
 				  ;; -- Pdf Mode --
 				  pdf-tools
 				  ;; -- LaTeX Mode --
-				  ;;auctex
+				  auctex
+				  auctex-latexmk
 				  cdlatex
 				  ;; -- Org Mode
 				  org
@@ -45,9 +46,11 @@
 
 ;; require all need package
 (dolist (pkg package-selected-packages)
-  (require pkg))
+  (unless (eq pkg 'auctex)
+    (require pkg)))
 
 ;; some other thing need required
+(require 'tex)
 (require 'warnings)
 (require 'hl-line)
 (require 'helm-config)

@@ -27,7 +27,7 @@
 				  ("\\paragraph{%s}" . "\\paragraph*{%s}")
 				  ("\\subparagraph{%s}" . "\\subparagraph*{%s}")))
 
-(add-hook 'org-mode-hook 'toggle-truncate-lines)
+;;(add-hook 'org-mode-hook 'toggle-truncate-lines)
 
 
 
