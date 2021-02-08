@@ -10,7 +10,7 @@
 
 (setq make-backup-files -1)
 (setq auto-save-default nil)
-(setq auto-revert-interval 0.5) 
+(setq auto-revert-interval 1) 
 (setq recentf-max-menu-item 1000)
 (setq backup-by-copying-when-linked 1)
 (setq-default truncate-lines nil)
