@@ -3,4 +3,12 @@
 #+DATE:<2021-02-06 Sat>
 #+EMAIL:i@ciodide.me
 
-Some config dotfiles backup for my own Linux
+Some config dotfiles backup for my own Linux. 
+
+Most of files I wrote are licensed CC0, but some file was copy or modified from else where.
+* .emacs.d/rime
+** build
+   All file are build from "pinyin-simp" 
+   https://github.com/rime/rime-pinyin-simp
+   But I mod amd combine the "schema.yaml" with rime's own "double_pinyin_flypy.schema"
+   https://github.com/rime/rime-double-pinyin
