@@ -5,7 +5,7 @@
 
 Some config dotfiles backup for my own Linux. 
 
-Most of files I wrote are licensed CC0, but some file was copy or modified from else where.
+Most of files I wrote are licensed by Unlicense License, but some file was copy or modified from else where.
 * .emacs.d/rime
 ** build
    All file are build from "pinyin-simp" 
