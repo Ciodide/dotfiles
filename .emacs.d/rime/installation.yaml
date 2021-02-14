@@ -3,6 +3,6 @@ distribution_name: Rime
 distribution_version: 1.0.1
 install_time: "Sun Jan 24 03:32:00 2021"
 installation_id: "emacs-rime"
-rime_version: 1.7.0
+rime_version: 1.7.3
 sync_dir: "/home/ciodide/Documents/Other/rime-sync/"
-update_time: "Tue Jan 26 00:20:06 2021"
+update_time: "Sun Feb 14 22:50:47 2021"

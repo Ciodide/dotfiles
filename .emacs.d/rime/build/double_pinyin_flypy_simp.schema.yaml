@@ -1,13 +1,13 @@
 __build_info:
-  rime_version: 1.6.1
+  rime_version: 1.7.2
   timestamps:
-    default: 1607860193
+    default: 1612771620
     default.custom: 1611515149
     double_pinyin_flypy_simp.custom: 1611551351
     double_pinyin_flypy_simp.schema: 1611546346
-    key_bindings: 1607860193
+    key_bindings: 1612771620
     key_bindings.custom: 0
-    punctuation: 1607860193
+    punctuation: 1612771620
     punctuation.custom: 0
 engine:
   processors:
